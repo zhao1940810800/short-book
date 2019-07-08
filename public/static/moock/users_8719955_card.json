@@ -1,0 +1,17 @@
+{
+  "follow_state": { "is_following": false, "is_followed": false },
+  "id": 8719955,
+  "slug": "79fdc252faab",
+  "nickname": "林肯公园_97cc",
+  "intro": "",
+  "public_notes_count": 7,
+  "avatar": "http://upload.jianshu.io/users/upload_avatars/8719955/45a6783f-9781-4111-974d-ce4c90f1778a",
+  "gender": 0,
+  "notes": [
+    { "title": "浅谈依赖注入", "slug": "99c2dd90097d" },
+    { "title": "Node.js", "slug": "e978e7091786" },
+    { "title": "Vuex和Vue-Router", "slug": "5dafca326778" }
+  ],
+  "followers_count": 3,
+  "following_users_count": 18
+}

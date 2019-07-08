@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 7416466,
+      "slug": "e7dd0b3c7b70",
+      "nickname": "老沈1",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg",
+      "total_likes_count": 595,
+      "total_wordage": 115754,
+      "is_following_user": false
+    },
+    {
+      "id": 3292545,
+      "slug": "c4165d16d0ad",
+      "nickname": "北美之北",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3292545/78f2855a-80fd-419a-9fb2-1aeed39690f0.png",
+      "total_likes_count": 29018,
+      "total_wordage": 423519,
+      "is_following_user": false
+    },
+    {
+      "id": 3343569,
+      "slug": "b3b2c03354f3",
+      "nickname": "吴晓布",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3343569/6940ee65-036f-4b7a-9935-5915d9b67d14.jpg",
+      "total_likes_count": 21530,
+      "total_wordage": 677802,
+      "is_following_user": false
+    },
+    {
+      "id": 1835526,
+      "slug": "55b597320c4e",
+      "nickname": "行距版君",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/1835526/83d24e1a-0a0f-43f6-8a1d-289be6101e73.png",
+      "total_likes_count": 54254,
+      "total_wordage": 516820,
+      "is_following_user": false
+    },
+    {
+      "id": 7705786,
+      "slug": "85e87737a013",
+      "nickname": "北落西门",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/7705786/a90dc05d-63f6-4690-8c1a-dcf7ff4422df.jpg",
+      "total_likes_count": 7820,
+      "total_wordage": 67733,
+      "is_following_user": false
+    }
+  ],
+  "total_count": 25273
+}

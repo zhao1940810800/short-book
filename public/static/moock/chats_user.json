@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "id": 278885551,
+      "last_message_content": " 欢迎加入丰富多彩的原创内容社区——简书。有任何疑问（如何投稿，专题主编，签约作者，简叔，简小...",
+      "last_message_created_at": 1505556230704,
+      "unread_messages_count": 0,
+      "user": {
+        "id": 3678149,
+        "slug": "b52ff888fd17",
+        "nickname": "简宝玉",
+        "avatar_source": "http://upload.jianshu.io/users/upload_avatars/3678149/b8a58e70-1126-48c9-97e2-8f21a31dfa94.png",
+        "is_blocking_user": false
+      }
+    }
+  ]
+}
