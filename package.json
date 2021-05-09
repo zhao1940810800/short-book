@@ -12,7 +12,7 @@
     "axios": "^0.19.0",
     "core-js": "^2.6.5",
     "dayjs": "^1.8.14",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "register-service-worker": "^1.6.2",
     "vm-editor": "^0.1.6",
